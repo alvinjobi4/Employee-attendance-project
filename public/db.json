@@ -1,0 +1,67 @@
+{
+  "employees": [
+    {
+      "id": "1769058677763",
+      "name": "Alvin",
+      "email": "jobi@gmail.com",
+      "password": "$2b$10$vlXtkUrcGjZRgrlnzvYeTe5TFrvHad0Vu6r5dxm1tUmUc1R07GoE2",
+      "employeeId": "12345",
+      "department": "IT",
+      "createdAt": "2026-01-22T05:11:17.763Z",
+      "updatedAt": "2026-01-22T05:11:17.763Z"
+    },
+    {
+      "id": "1769060162073",
+      "name": "johndoe",
+      "email": "john@gmail.com",
+      "password": "$2b$10$1BV1CixMavhtvVYQREV2c.Q2oVhadcjvh1zfhdt3nt2lVFwD7u/LO",
+      "employeeId": "3457",
+      "department": "Sales",
+      "createdAt": "2026-01-22T05:36:02.073Z",
+      "updatedAt": "2026-01-22T05:36:02.073Z"
+    }
+  ],
+  "attendance": [],
+  "leaves": [
+    {
+      "id": "1769058797991",
+      "employeeId": "1769058677763",
+      "startDate": "2026-01-23",
+      "endDate": "2026-01-24",
+      "reason": "goivnnvbkvbiuhgbn",
+      "status": "approved",
+      "createdAt": "2026-01-22T05:13:17.991Z",
+      "updatedAt": "2026-01-22T05:39:46.789Z"
+    },
+    {
+      "id": "1769060239930",
+      "employeeId": "1769060162073",
+      "startDate": "2026-01-23",
+      "endDate": "2026-01-24",
+      "reason": "going home",
+      "status": "approved",
+      "createdAt": "2026-01-22T05:37:19.930Z",
+      "updatedAt": "2026-01-22T05:39:44.681Z"
+    },
+    {
+      "id": "1769062495243",
+      "employeeId": "1769058677763",
+      "startDate": "2006-09-23",
+      "endDate": "2007-09-23",
+      "reason": "dfgdffdg",
+      "status": "rejected",
+      "createdAt": "2026-01-22T06:14:55.243Z",
+      "updatedAt": "2026-01-22T06:15:18.782Z"
+    }
+  ],
+  "admins": [
+    {
+      "id": "1769060359404",
+      "name": "poorna",
+      "email": "poorna@gmail.com",
+      "password": "$2b$10$aKZQC57/BRORMieAFhysH.ymxbxCP16cfgCwXCbVUCmR5623XUoHi",
+      "createdAt": "2026-01-22T05:39:19.404Z",
+      "updatedAt": "2026-01-22T05:39:19.404Z"
+    }
+  ]
+}
